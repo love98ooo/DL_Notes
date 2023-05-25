@@ -32,7 +32,7 @@ $$\tag{1.3} y = h(a)$$
 
 这是神经网络中最经常使用的一个激活函数。
 
-$$\tag{1.4 }h(x) = \frac {1}{1+\exp(-x)}$$
+$$\tag{1.4}h(x) = \frac {1}{1+\exp(-x)}$$
 
 与阶跃函数相比，sigmoid函数是一条平滑的曲线
 
@@ -79,8 +79,12 @@ def relu(x):
 
 以第0层和第一层为例：
 
-$$a_1^{(1)} = w_{11}^{(1)}x_1 + w_{12}^{(1)}x_2 + b_1^(1)$$
+$$\tag{1.5}a_1^{(1)} = w_{11}^{(1)}x_1 + w_{12}^{(1)}x_2 + b_1^{(1)}$$
+
+矩阵表示如下：
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA5NjMxMTMsMjQzMTIxNzM3LC04Mj
-kzMzY1NTcsLTE1MzU0NzU3ODVdfQ==
+eyJoaXN0b3J5IjpbLTU1OTUwMjY2MiwyNDMxMjE3MzcsLTgyOT
+MzNjU1NywtMTUzNTQ3NTc4NV19
 -->
