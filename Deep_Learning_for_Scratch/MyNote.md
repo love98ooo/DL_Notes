@@ -11,7 +11,11 @@
 这是神经网络中最重要的概念之一，作用在于决定如何来激活输入信号的总和。
 
 For example: 
-$$\tag{1.1}h(x) = \{ \begin{aligned} $$
+$$\tag{1.1}
+	h(x) = \{ 
+	\begin{aligned} 
+	1 \quad (x\le0)
+	0 \quad \end{aligned}$$
  
  $$\tag{1.2} a = b  + w_1 x_1 + w_2x_2$$
  
@@ -23,6 +27,5 @@ $$\tag{1.1}h(x) = \{ \begin{aligned} $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ2NzU1NTgsLTE1MzU0NzU3ODVdfQ
-==
+eyJoaXN0b3J5IjpbMTY1NTg3MjUxNiwtMTUzNTQ3NTc4NV19
 -->
