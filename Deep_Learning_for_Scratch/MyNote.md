@@ -30,8 +30,10 @@ $$\tag{1.3} y = h(a)$$
 
 #### sigmoid 函数
 
+这是神经网络中最经常使用的一个激活函数。
 
+$$h(x) = \frac {1}{1+\exp(-x)}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY4Mjg5MjIsLTE1MzU0NzU3ODVdfQ
+eyJoaXN0b3J5IjpbLTEwMjU1OTc3MTUsLTE1MzU0NzU3ODVdfQ
 ==
 -->
