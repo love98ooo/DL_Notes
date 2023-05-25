@@ -54,6 +54,10 @@ def relu(x):
 函数图像如下：
 
 ![]()
+
+#### 神经网络的内积
+
+可以使用NumPy矩阵来实现神经网络
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjAxMzIxMiwtMTUzNTQ3NTc4NV19
+eyJoaXN0b3J5IjpbLTgyOTMzNjU1NywtMTUzNTQ3NTc4NV19
 -->
