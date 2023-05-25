@@ -24,7 +24,7 @@ $$\tag{1.3} y = h(a)$$
  
 首先，式（1.1）计算加权输入信号和偏置的总和，记为a。然后，式（1.2）用h()函数将a转换为输出y。那么我们可以这样表示：
 
-!()[]
+![]()
 
 当然这个感知机也可以不使用阶跃函数，如果使用其他函数，那么就可以进入神经网络的世界里。
 
@@ -36,7 +36,7 @@ $$\tag{1.4 }h(x) = \frac {1}{1+\exp(-x)}$$
 
 与阶跃函数相比，sigmoid函数是一条平滑的曲线
 
-!()[]
+![]()
 
 #### 非线性函数
 
@@ -51,7 +51,9 @@ def relu(x):
 	return np.maximum(0, x)
 ```
 
+函数图像如下：
 
+![]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDY0MTAxNSwtMTUzNTQ3NTc4NV19
+eyJoaXN0b3J5IjpbLTg1MjAxMzIxMiwtMTUzNTQ3NTc4NV19
 -->
