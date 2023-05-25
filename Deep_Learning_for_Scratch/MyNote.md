@@ -85,8 +85,10 @@ $$\tag{1.5} a_1^{(1)} = w_{11}^{(1)}x_1 + w_{12}^{(1)}x_2 + b_1^{(1)}$$
 
 $$\tag{1.6} A^{(1)} = XW^{(1)} + B^{(1)}$$
 
-其中，$A^{(1)}$$$$$$$
+其中，$A^{(1)}$、$X$、$W^{(1)}$、$B^{(1)}$如下所示：
+
+$$A^{(1)}=\left\(  \)\right$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk4MDMzNTEsMjQzMTIxNzM3LC04Mj
-kzMzY1NTcsLTE1MzU0NzU3ODVdfQ==
+eyJoaXN0b3J5IjpbLTUyMzM5Nzk1MCwyNDMxMjE3MzcsLTgyOT
+MzNjU1NywtMTUzNTQ3NTc4NV19
 -->
