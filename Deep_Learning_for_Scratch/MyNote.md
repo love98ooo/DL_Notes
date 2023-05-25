@@ -62,9 +62,17 @@ def relu(x):
 ```python
 >>> X = np.array([1, 2])
 >>> X.shape
-(
+(2,)
+>>> W = np.array([1, 3, 5], [2, 4, 6])
+>>> W.shape
+(2, 3)
+>>> Y = np.dot(X, W)
+>>> print(Y)
+[ 5 11 17]
 ```
+
+这里我们使用了np.dot()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4MTA5NzYwLC04MjkzMzY1NTcsLTE1Mz
-U0NzU3ODVdfQ==
+eyJoaXN0b3J5IjpbLTIwMDIxMjQ2ODAsLTgyOTMzNjU1NywtMT
+UzNTQ3NTc4NV19
 -->
