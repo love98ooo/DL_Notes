@@ -4,7 +4,7 @@
 
 在开始这个章节之前，首先需要了解 perceptron。这是一个非常简单的算法，有输入、逻辑、输出等等，相比于传统算法，这个算法更看重输入和逻辑中的数学函数，而不是算法本身。
 
-神经网络本质上就是多个perceptron以层的形式叠加。
+神经网络可以理解成多个perceptron以层的形式叠加。
 
 ### 激活函数 (activation function)
 
@@ -22,5 +22,5 @@ For example:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMTcwNTYzLC0xNTM1NDc1Nzg1XX0=
+eyJoaXN0b3J5IjpbNjYyMDgyMzg2LC0xNTM1NDc1Nzg1XX0=
 -->
