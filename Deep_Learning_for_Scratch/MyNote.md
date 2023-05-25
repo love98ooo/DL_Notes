@@ -32,8 +32,13 @@ $$\tag{1.3} y = h(a)$$
 
 这是神经网络中最经常使用的一个激活函数。
 
-$$h(x) = \frac {1}{1+\exp(-x)}$$
+$$\tag{1.4 }h(x) = \frac {1}{1+\exp(-x)}$$
+
+与阶跃函数相比，sigmoid函数是一条平滑的曲线
+
+!()[]
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU1OTc3MTUsLTE1MzU0NzU3ODVdfQ
-==
+eyJoaXN0b3J5IjpbMTUxMDMxMzE4MiwtMTUzNTQ3NTc4NV19
 -->
