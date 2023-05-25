@@ -90,9 +90,11 @@ $$\tag{1.6} A^{(1)} = XW^{(1)} + B^{(1)}$$
 $$A^{(1)}=\left( a_1^{(1)}\quad a_2^{(1)}\quad a_3^{(1)}  \right), 
 X=\left( x_1 \quad x_2  \right),
 B^{(1)}=\left(b_1^{(1)}\quad b_2^{(1)}\quad b_3^{(1)}  \right),
-W^{(1)}=\left( w_{11}^{(1)} \quad\right)
+W^{(1)}=
+\begin{aligned}\left( w_{11}^{(1)} \quad w_{21}^{(1)} \quad w_{31}^{(1)} \\
+w_{12}^{(1)} \quad w_{22}^{(1)} \quad w_{32}^{(1)} \\\right)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NDYzODQ0LDI0MzEyMTczNywtODI5Mz
+eyJoaXN0b3J5IjpbNDMxOTk4MjQxLDI0MzEyMTczNywtODI5Mz
 M2NTU3LC0xNTM1NDc1Nzg1XX0=
 -->
