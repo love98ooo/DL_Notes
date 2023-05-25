@@ -12,14 +12,15 @@
 
 For example: 
 $$\tag{1.1}
-	h(x) = \{ 
+	h(x) = \left\{ 
 	\begin{aligned} 
-	1 \quad (x\le0)
-	0 \quad \end{aligned}$$
+	1 \quad (x\le0)\\
+	0 \quad (x>0)\end{aligned}
+	\right.$$
  
- $$\tag{1.2} a = b  + w_1 x_1 + w_2x_2$$
+$$\tag{1.2} a = b  + w_1 x_1 + w_2x_2$$
  
- $$\tag{1.3} y = h(a)$$
+$$\tag{1.3} y = h(a)$$
  
 首先，式（1.1）计算加权输入信号和偏置的总和，记为a。然后，式（1.2）用h()函数将a转换为输出y。那么我们可以这样表示：
 
@@ -27,5 +28,6 @@ $$\tag{1.1}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTg3MjUxNiwtMTUzNTQ3NTc4NV19
+eyJoaXN0b3J5IjpbLTEzOTIxNjQzNjAsLTE1MzU0NzU3ODVdfQ
+==
 -->
