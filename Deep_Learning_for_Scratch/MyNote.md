@@ -38,7 +38,9 @@ $$\tag{1.4 }h(x) = \frac {1}{1+\exp(-x)}$$
 
 !()[]
 
+#### 非线性函数
 
+神经网络必须使用非线性函数。使用线形函数的问题在于，不管ru h
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDMxMzE4MiwtMTUzNTQ3NTc4NV19
+eyJoaXN0b3J5IjpbLTY1ODg1MzM5NSwtMTUzNTQ3NTc4NV19
 -->
