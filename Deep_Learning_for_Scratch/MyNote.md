@@ -75,8 +75,8 @@ def relu(x):
 
 #### 3层神经网络的实现
 
-
+这里我们以图示的3层神经网络
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTY2MzA2NywtODI5MzM2NTU3LC0xNT
-M1NDc1Nzg1XX0=
+eyJoaXN0b3J5IjpbNjQ1NjM2NzM1LC04MjkzMzY1NTcsLTE1Mz
+U0NzU3ODVdfQ==
 -->
