@@ -26,7 +26,12 @@ $$\tag{1.3} y = h(a)$$
 
 !()[]
 
-当然这个感知机
+当然这个感知机也可以不使用阶跃函数，如果使用其他函数，那么就可以进入神经网络的世界里。
+
+#### sigmoid 函数
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjAwOTYwNCwtMTUzNTQ3NTc4NV19
+eyJoaXN0b3J5IjpbLTEwMzY4Mjg5MjIsLTE1MzU0NzU3ODVdfQ
+==
 -->
