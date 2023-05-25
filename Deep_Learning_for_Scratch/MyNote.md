@@ -77,8 +77,8 @@ def relu(x):
 
 这里我们以图示的3层神经网络为对象，实现从输入到输出的（前向）处理。
 
-
+以
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzMTIxNzM3LC04MjkzMzY1NTcsLTE1Mz
-U0NzU3ODVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODIxOTc0MDIsMjQzMTIxNzM3LC04Mj
+kzMzY1NTcsLTE1MzU0NzU3ODVdfQ==
 -->
