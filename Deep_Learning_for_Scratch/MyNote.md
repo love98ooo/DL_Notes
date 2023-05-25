@@ -40,8 +40,8 @@ $$\tag{1.4 }h(x) = \frac {1}{1+\exp(-x)}$$
 
 #### 非线性函数
 
-神经网络必须使用非线性函数。使用线形函数的问题在于，不管如何加深层数，总是存在于之等效的“无隐藏层的神经网络”。例如：$$dd$ dad
+神经网络必须使用非线性函数。使用线形函数的问题在于，不管如何加深层数，总是存在于之等效的“无隐藏层的神经网络”。例如：我们设$h(x)=cx$，$y(x)=h(h(h(x)))$ ，那么
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg4NjQwMDYsLTE1MzU0NzU3ODVdfQ
+eyJoaXN0b3J5IjpbLTE4Njc1NjcwOTIsLTE1MzU0NzU3ODVdfQ
 ==
 -->
