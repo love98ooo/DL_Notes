@@ -79,12 +79,14 @@ def relu(x):
 
 以第0层和第一层为例：
 
-$$\tag{1.5}a_1^{(1)} = w_{11}^{(1)}x_1 + w_{12}^{(1)}x_2 + b_1^{(1)}$$
+$$\tag{1.5} a_1^{(1)} = w_{11}^{(1)}x_1 + w_{12}^{(1)}x_2 + b_1^{(1)}$$
 
 矩阵表示如下：
 
+$$\tag{1.6} A^{(1)} = XW^{(1)} + B^{(1)}$$
 
+其中，$A^{(1)}$$$$$$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTUwMjY2MiwyNDMxMjE3MzcsLTgyOT
-MzNjU1NywtMTUzNTQ3NTc4NV19
+eyJoaXN0b3J5IjpbLTEzNDk4MDMzNTEsMjQzMTIxNzM3LC04Mj
+kzMzY1NTcsLTE1MzU0NzU3ODVdfQ==
 -->
