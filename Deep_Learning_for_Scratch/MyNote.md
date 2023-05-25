@@ -26,8 +26,7 @@ $$\tag{1.3} y = h(a)$$
 
 !()[]
 
-
+当然这个感知机
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIxNjQzNjAsLTE1MzU0NzU3ODVdfQ
-==
+eyJoaXN0b3J5IjpbLTIyNjAwOTYwNCwtMTUzNTQ3NTc4NV19
 -->
