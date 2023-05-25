@@ -87,8 +87,8 @@ $$\tag{1.6} A^{(1)} = XW^{(1)} + B^{(1)}$$
 
 其中，$A^{(1)}$、$X$、$W^{(1)}$、$B^{(1)}$如下所示：
 
-$$A^{(1)}=\left\(  \)\right$$
+$$A^{(1)}=\left( a_1^{(1)}\quad a_2^{(1)}\quad a_3^{(1)}  \right), $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzM5Nzk1MCwyNDMxMjE3MzcsLTgyOT
+eyJoaXN0b3J5IjpbLTY2MjQ1NDUwMCwyNDMxMjE3MzcsLTgyOT
 MzNjU1NywtMTUzNTQ3NTc4NV19
 -->
