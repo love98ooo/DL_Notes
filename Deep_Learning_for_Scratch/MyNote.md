@@ -17,6 +17,10 @@ For example:
  $$\tag{1.2} y = h(a)$$
  
 首先，式（1.1）计算加权输入信号和偏置的总和，记为a。然后，式（1.2）用h()函数将a转换为输出y。那么我们可以这样表示：
+
+!()[]
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTg3MDA5OSwtMTUzNTQ3NTc4NV19
+eyJoaXN0b3J5IjpbNDYwMTcwNTYzLC0xNTM1NDc1Nzg1XX0=
 -->
