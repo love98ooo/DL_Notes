@@ -11,6 +11,7 @@
 这是神经网络中最重要的概念之一，作用在于决定如何来激活输入信号的总和。
 
 For example: 
+$$$$
  
  $$\tag{1.1} a = b  + w_1 x_1 + w_2x_2$$
  
@@ -22,5 +23,5 @@ For example:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMDgyMzg2LC0xNTM1NDc1Nzg1XX0=
+eyJoaXN0b3J5IjpbMTUyMDMyODUxMiwtMTUzNTQ3NTc4NV19
 -->
