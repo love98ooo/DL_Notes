@@ -71,8 +71,12 @@ def relu(x):
 [ 5 11 17]
 ```
 
-这里我们使用了np.dot()
+这里我们使用了`np.dot()`函数一次性计算了多位数组的点积，大幅降低了代码的复杂度。
+
+#### 3层神经网络的实现
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIxMjQ2ODAsLTgyOTMzNjU1NywtMT
-UzNTQ3NTc4NV19
+eyJoaXN0b3J5IjpbMTExNTY2MzA2NywtODI5MzM2NTU3LC0xNT
+M1NDc1Nzg1XX0=
 -->
