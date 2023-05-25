@@ -59,7 +59,7 @@ def relu(x):
 
 可以使用NumPy矩阵来实现神经网络。
 
-```python
+```Python
 >>> X = np.array([1, 2])
 >>> X.shape
 (2,)
@@ -95,8 +95,12 @@ W^{(1)}=
 w_{12}^{(1)} \quad w_{22}^{(1)} \quad w_{32}^{(1)} \\\end{aligned}\right)
 $$
 
-shi y
+使用Python实现如下：
+
+```python
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNTY2NDE5LDI0MzEyMTczNywtODI5Mz
+eyJoaXN0b3J5IjpbNDY0MzkwMjM2LDI0MzEyMTczNywtODI5Mz
 M2NTU3LC0xNTM1NDc1Nzg1XX0=
 -->
