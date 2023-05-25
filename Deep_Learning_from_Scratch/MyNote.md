@@ -105,6 +105,8 @@ print(W1.shape) # (2, 3) print(X.shape)  # (2,)
 print(B1.shape) # (3,) 
 A1 = np.dot(X, W1) + B1
 ```
+
+在
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjAyOTI5Niw0NjQzOTAyMzZdfQ==
+eyJoaXN0b3J5IjpbLTcyNjQyMjk0NCw0NjQzOTAyMzZdfQ==
 -->
